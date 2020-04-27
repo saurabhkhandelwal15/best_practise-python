@@ -298,7 +298,3 @@ Notice how the testcase and test method read together like "Test A User can writ
 [PEP 8]: http://www.python.org/dev/peps/pep-0008/
 [Khan Academy Development Docs]: https://sites.google.com/a/khanacademy.org/forge/for-developers
 [The Pragmatic Programmer]: http://www.amazon.com/The-Pragmatic-Programmer-Journeyman-Master/dp/020161622X/ref=sr_1_1?ie=UTF8&qid=1381886835&sr=8-1&keywords=pragmatic+programmer
-
-## License
-
-Licensed under the [CC-BY 4.0 License](https://creativecommons.org/licenses/by/4.0/)
