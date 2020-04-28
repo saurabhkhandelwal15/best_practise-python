@@ -99,6 +99,27 @@ person.age = 42
 ```python
 person.set_age(42)
 ```
+#### Explicitly Define Datatype in Python Function
+
+- No need to check the datatype in python, making it much simpler
+- This makes it easier for other developers to read your code
+- Error detection and resolution is much easier 
+
+**Yes**
+```
+def add(x: float, y: float) -> float:
+    return x+y
+```
+
+**No**
+```
+def add(x , y):
+    z = (x+y)
+    return (print ("The required Sum is: ", z))
+
+add (5, 8)
+```
+
 
 #### Indentation
 
